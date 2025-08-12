@@ -118,7 +118,7 @@
             transition: transform 0.6s;
             border-radius: var(--border-radius);
             box-shadow: var(--box-shadow);
-            cursor: pointer; /* Add cursor for clickable effect */
+            cursor: pointer;
         }
 
         #flashcard.is-flipped {
@@ -198,7 +198,7 @@
             text-underline-offset: 4px;
             cursor: help;
             position: relative;
-            display: inline-block; /* Added to better contain the tooltip and fix spacing */
+            display: inline-block;
         }
 
         .verb .tooltip {
@@ -280,7 +280,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            let themes = {}; // The themes object is now loaded from cards.json
+            let themes = {};
             let currentDeck = [];
             let currentIndex = 0;
             let isSpanishToEnglish = true;
@@ -302,7 +302,6 @@
             const playAgainBtn = document.getElementById('play-again-btn');
             const reviewMissedBtn = document.getElementById('review-missed-btn');
 
-            // Fetch the cards.json file and then run the app
             fetch('cards.json')
                 .then(response => {
                     if (!response.ok) {
@@ -367,7 +366,8 @@
                 currentDeck = [...currentDeck.slice(0, currentIndex), ...remainingDeck];
                 displayCard();
             }
-
+            
+            // This is the updated function with &nbsp;
             function processSpanishSentence(card) {
                 let sentence = card.spanish;
                 if (!card.verbs || card.verbs.length === 0) {
@@ -376,10 +376,10 @@
                 card.verbs.forEach(verbInfo => {
                     const regex = new RegExp(`\\b(${verbInfo.word})\\b`, 'gi');
                     sentence = sentence.replace(regex, (match) => 
-                        `<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>`
+                        `&nbsp;<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>&nbsp;`
                     );
                 });
-                return sentence;
+                return sentence.trim(); // Trim to remove leading/trailing spaces if the verb is at the start/end
             }
 
             function displayCard() {
@@ -466,7 +466,6 @@
             playAgainBtn.addEventListener('click', startNewGameFromEndScreen);
             reviewMissedBtn.addEventListener('click', startMissedCardsReview);
             
-            // New event listener for clicking the flashcard itself
             flashcard.addEventListener('click', flipCard);
         });
     </script>
