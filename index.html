@@ -370,7 +370,8 @@
                 currentDeck = [...currentDeck.slice(0, currentIndex), ...remainingDeck];
                 displayCard();
             }
-            
+
+            /*
             function processSpanishSentence(card) {
                 let sentence = card.spanish;
                 if (!card.verbs || card.verbs.length === 0) {
@@ -385,7 +386,25 @@
                     return `<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>`;
                 });
             }
+            */
 
+function processSpanishSentence(card) {
+    let sentence = card.spanish;
+    if (!card.verbs || card.verbs.length === 0) {
+        return sentence;
+    }
+
+    const verbWords = card.verbs.map(v => v.word);
+    // This regex will match the verb and the space that follows it.
+    // It captures the verb and the space separately.
+    const regex = new RegExp(`(${verbWords.join('|')})\\s`, 'gi');
+    
+    return sentence.replace(regex, (match, p1) => {
+        const verbInfo = card.verbs.find(v => v.word.toLowerCase() === p1.toLowerCase());
+        // We add a non-breaking space after the closing span tag to preserve the spacing.
+        return `<span class="verb">${p1}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>&nbsp;`;
+    });
+}  
             function displayCard() {
                 if (currentDeck.length === 0 || currentIndex >= currentDeck.length) {
                     gameContainer.style.display = 'none';
@@ -475,3 +494,4 @@
     </script>
 </body>
 </html>
+
