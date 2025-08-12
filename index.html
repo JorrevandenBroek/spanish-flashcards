@@ -1,50 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Spanish Flashcard Game</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@400;700&display=swap');
+// This is the updated function
+function processSpanishSentence(card) {
+    let sentence = card.spanish;
+    if (!card.verbs || card.verbs.length === 0) {
+        return sentence;
+    }
 
-        /* ... (rest of your CSS is unchanged) ... */
+    // A pattern to match the verb and any leading/trailing spaces
+    const pattern = new RegExp(`(\\s*)\\b(${card.verbs.map(v => v.word).join('|')})\\b(\\s*)`, 'gi');
 
-        .verb {
-            text-decoration: underline;
-            text-decoration-style: dotted;
-            text-decoration-color: var(--accent-color);
-            text-underline-offset: 4px;
-            cursor: help;
-            position: relative;
-            /* Added margin to create space */
-            margin: 0 4px;
-        }
+    return sentence.replace(pattern, (match, p1, p2, p3) => {
+        // p1 and p3 are the leading and trailing spaces, p2 is the verb itself.
+        // We'll keep the original spacing but wrap the verb in the span.
+        const verbInfo = card.verbs.find(v => v.word.toLowerCase() === p2.toLowerCase());
 
-        /* ... (rest of your CSS is unchanged) ... */
-    </style>
-</head>
-<body>
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            // ... (your existing JavaScript variables and functions) ...
-
-            // Updated function to clean up the HTML and rely on CSS for spacing
-            function processSpanishSentence(card) {
-                let sentence = card.spanish;
-                if (!card.verbs || card.verbs.length === 0) {
-                    return sentence;
-                }
-                card.verbs.forEach(verbInfo => {
-                    const regex = new RegExp(`\\b(${verbInfo.word})\\b`, 'gi');
-                    sentence = sentence.replace(regex, (match) => 
-                        `<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>`
-                    );
-                });
-                return sentence;
-            }
-
-            // ... (rest of your JavaScript is unchanged) ...
-        });
-    </script>
-</body>
-</html>
+        return `${p1}<span class="verb">${p2}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>${p3}`;
+    }).trim();
+}
