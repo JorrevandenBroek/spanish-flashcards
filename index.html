@@ -126,22 +126,24 @@
         }
 
         .card-face {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        backface-visibility: hidden;
-        -webkit-backface-visibility: hidden;
-        border-radius: var(--border-radius);
-        background-color: var(--card-bg-color);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 20px;
-        text-align: center;
-        font-size: 1.8em;
-        box-sizing: border-box;
-    }
-
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            border-radius: var(--border-radius);
+            background-color: var(--card-bg-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            text-align: center;
+            font-size: 1.8em;
+            box-sizing: border-box;
+            
+            /* Corrected CSS to allow normal text wrapping */
+            white-space: normal;
+        }
 
         #card-back {
             transform: rotateY(180deg);
@@ -193,15 +195,14 @@
         }
         
         .verb {
-        text-decoration: underline;
-        text-decoration-style: dotted;
-        text-decoration-color: var(--accent-color);
-        text-underline-offset: 4px;
-        cursor: help;
-        position: relative;
-        /* NEW: This will prevent the verb and its tooltip from wrapping */
-        white-space: nowrap;
-    }
+            text-decoration: underline;
+            text-decoration-style: dotted;
+            text-decoration-color: var(--accent-color);
+            text-underline-offset: 4px;
+            cursor: help;
+            position: relative;
+            /* NEW: This is the fix. It prevents the verb and its tooltip from wrapping. */
+            white-space: nowrap;
         }
 
         .verb .tooltip {
@@ -370,7 +371,6 @@
                 displayCard();
             }
             
-            // This function is now more simplified and robust
             function processSpanishSentence(card) {
                 let sentence = card.spanish;
                 if (!card.verbs || card.verbs.length === 0) {
@@ -378,7 +378,6 @@
                 }
 
                 const verbWords = card.verbs.map(v => v.word);
-                // Create a regex pattern to match all verbs in a case-insensitive way
                 const regex = new RegExp(`(${verbWords.join('|')})`, 'gi');
                 
                 return sentence.replace(regex, (match) => {
@@ -386,7 +385,6 @@
                     return `<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>`;
                 });
             }
-
 
             function displayCard() {
                 if (currentDeck.length === 0 || currentIndex >= currentDeck.length) {
@@ -477,4 +475,3 @@
     </script>
 </body>
 </html>
-
