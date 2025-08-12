@@ -140,6 +140,10 @@
             text-align: center;
             font-size: 1.8em;
             box-sizing: border-box;
+            
+            /* NEW: Prevent the text from wrapping onto a new line */
+            white-space: pre-wrap;
+            word-break: break-word;
         }
 
         #card-back {
@@ -190,7 +194,8 @@
             font-size: 1em;
             color: #7f8c8d;
         }
-
+        
+        /* UPDATED: Remove margin/inline-block and just rely on the span for highlighting */
         .verb {
             text-decoration: underline;
             text-decoration-style: dotted;
@@ -198,7 +203,6 @@
             text-underline-offset: 4px;
             cursor: help;
             position: relative;
-            display: inline-block;
         }
 
         .verb .tooltip {
@@ -367,20 +371,23 @@
                 displayCard();
             }
             
-            // This is the updated function with &nbsp;
+            // This function is now more simplified and robust
             function processSpanishSentence(card) {
                 let sentence = card.spanish;
                 if (!card.verbs || card.verbs.length === 0) {
                     return sentence;
                 }
-                card.verbs.forEach(verbInfo => {
-                    const regex = new RegExp(`\\b(${verbInfo.word})\\b`, 'gi');
-                    sentence = sentence.replace(regex, (match) => 
-                        `&nbsp;<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>&nbsp;`
-                    );
+
+                const verbWords = card.verbs.map(v => v.word);
+                // Create a regex pattern to match all verbs in a case-insensitive way
+                const regex = new RegExp(`(${verbWords.join('|')})`, 'gi');
+                
+                return sentence.replace(regex, (match) => {
+                    const verbInfo = card.verbs.find(v => v.word.toLowerCase() === match.toLowerCase());
+                    return `<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>`;
                 });
-                return sentence.trim(); // Trim to remove leading/trailing spaces if the verb is at the start/end
             }
+
 
             function displayCard() {
                 if (currentDeck.length === 0 || currentIndex >= currentDeck.length) {
