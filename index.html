@@ -118,6 +118,7 @@
             transition: transform 0.6s;
             border-radius: var(--border-radius);
             box-shadow: var(--box-shadow);
+            cursor: pointer; /* Add cursor for clickable effect */
         }
 
         #flashcard.is-flipped {
@@ -197,6 +198,7 @@
             text-underline-offset: 4px;
             cursor: help;
             position: relative;
+            display: inline-block; /* Added to better contain the tooltip and fix spacing */
         }
 
         .verb .tooltip {
@@ -374,14 +376,7 @@
                 card.verbs.forEach(verbInfo => {
                     const regex = new RegExp(`\\b(${verbInfo.word})\\b`, 'gi');
                     sentence = sentence.replace(regex, (match) => 
-                        `<span class="verb">${match}
-                            <span class="tooltip">
-                                <span class="tooltip-content">
-                                    <strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br>
-                                    <strong>Conjugation:</strong> ${verbInfo.conjugation}
-                                </span>
-                            </span>
-                        </span>`
+                        `<span class="verb">${match}<span class="tooltip"><span class="tooltip-content"><strong>Infinitive:</strong> ${verbInfo.infinitive} (${verbInfo.meaning})<br><strong>Conjugation:</strong> ${verbInfo.conjugation}</span></span></span>`
                     );
                 });
                 return sentence;
@@ -470,6 +465,9 @@
             shuffleBtn.addEventListener('click', shuffleRemainingCards);
             playAgainBtn.addEventListener('click', startNewGameFromEndScreen);
             reviewMissedBtn.addEventListener('click', startMissedCardsReview);
+            
+            // New event listener for clicking the flashcard itself
+            flashcard.addEventListener('click', flipCard);
         });
     </script>
 </body>
