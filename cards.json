@@ -1,0 +1,338 @@
+{
+    "Greetings": [
+        {
+            "spanish": "Hola, ¿cómo estás?",
+            "english": "Hello, how are you?",
+            "verbs": [
+                {
+                    "word": "estás",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 2nd person singular (tú)"
+                }
+            ]
+        },
+        {
+            "spanish": "Buenos días, ¿qué tal?",
+            "english": "Good morning, how is it going?",
+            "verbs": []
+        },
+        {
+            "spanish": "Me llamo Juan.",
+            "english": "My name is Juan.",
+            "verbs": [
+                {
+                    "word": "llamo",
+                    "infinitive": "llamar",
+                    "meaning": "to call",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Encantado de conocerte.",
+            "english": "Pleased to meet you.",
+            "verbs": [
+                {
+                    "word": "conocer",
+                    "infinitive": "conocer",
+                    "meaning": "to meet/know",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Kitchen": [
+        {
+            "spanish": "Necesito un cuchillo para cortar el pan.",
+            "english": "I need a knife to cut the bread.",
+            "verbs": [
+                {
+                    "word": "Necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "cortar",
+                    "infinitive": "cortar",
+                    "meaning": "to cut",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "La sopa está muy caliente.",
+            "english": "The soup is very hot.",
+            "verbs": [
+                {
+                    "word": "está",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular (él/ella/usted)"
+                }
+            ]
+        },
+        {
+            "spanish": "Por favor, pasa la sal.",
+            "english": "Please, pass the salt.",
+            "verbs": [
+                {
+                    "word": "pasa",
+                    "infinitive": "pasar",
+                    "meaning": "to pass",
+                    "conjugation": "Imperative, 2nd person singular (tú)"
+                }
+            ]
+        },
+        {
+            "spanish": "Voy a cocinar la cena.",
+            "english": "I am going to cook dinner.",
+            "verbs": [
+                {
+                    "word": "Voy",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "cocinar",
+                    "infinitive": "cocinar",
+                    "meaning": "to cook",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "School": [
+        {
+            "spanish": "El estudiante lee un libro.",
+            "english": "The student reads a book.",
+            "verbs": [
+                {
+                    "word": "lee",
+                    "infinitive": "leer",
+                    "meaning": "to read",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La profesora enseña matemáticas.",
+            "english": "The teacher teaches math.",
+            "verbs": [
+                {
+                    "word": "enseña",
+                    "infinitive": "enseñar",
+                    "meaning": "to teach",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tenemos un examen mañana.",
+            "english": "We have an exam tomorrow.",
+            "verbs": [
+                {
+                    "word": "Tenemos",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "Debes hacer la tarea.",
+            "english": "You must do the homework.",
+            "verbs": [
+                {
+                    "word": "Debes",
+                    "infinitive": "deber",
+                    "meaning": "to must/ought to",
+                    "conjugation": "Present, 2nd person singular (tú)"
+                },
+                {
+                    "word": "hacer",
+                    "infinitive": "hacer",
+                    "meaning": "to do/make",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Work": [
+        {
+            "spanish": "Trabajo en una oficina en el centro.",
+            "english": "I work in an office downtown.",
+            "verbs": [
+                {
+                    "word": "Trabajo",
+                    "infinitive": "trabajar",
+                    "meaning": "to work",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo una reunión a las tres.",
+            "english": "I have a meeting at three.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi jefe envió un correo importante.",
+            "english": "My boss sent an important email.",
+            "verbs": [
+                {
+                    "word": "envió",
+                    "infinitive": "enviar",
+                    "meaning": "to send",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesitamos terminar este proyecto.",
+            "english": "We need to finish this project.",
+            "verbs": [
+                {
+                    "word": "Necesitamos",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                },
+                {
+                    "word": "terminar",
+                    "infinitive": "terminar",
+                    "meaning": "to finish",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Family": [
+        {
+            "spanish": "Mi madre cocina una paella deliciosa.",
+            "english": "My mother cooks a delicious paella.",
+            "verbs": [
+                {
+                    "word": "cocina",
+                    "infinitive": "cocinar",
+                    "meaning": "to cook",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo dos hermanos y una hermana.",
+            "english": "I have two brothers and one sister.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Visitamos a nuestros abuelos los domingos.",
+            "english": "We visit our grandparents on Sundays.",
+            "verbs": [
+                {
+                    "word": "Visitamos",
+                    "infinitive": "visitar",
+                    "meaning": "to visit",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                }
+            ]
+        }
+    ],
+    "Economy": [
+        {
+            "spanish": "El precio de la gasolina sigue subiendo.",
+            "english": "The price of gasoline keeps rising.",
+            "verbs": [
+                {
+                    "word": "sigue",
+                    "infinitive": "seguir",
+                    "meaning": "to continue/keep",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "subiendo",
+                    "infinitive": "subir",
+                    "meaning": "to rise/go up",
+                    "conjugation": "Gerund"
+                }
+            ]
+        },
+        {
+            "spanish": "El gobierno anunció nuevas medidas económicas.",
+            "english": "The government announced new economic measures.",
+            "verbs": [
+                {
+                    "word": "anunció",
+                    "infinitive": "anunciar",
+                    "meaning": "to announce",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Es importante ahorrar dinero.",
+            "english": "It is important to save money.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "ahorrar",
+                    "infinitive": "ahorrar",
+                    "meaning": "to save",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Numbers": [
+        {
+            "spanish": "Uno, dos, tres, cuatro, cinco.",
+            "english": "One, two, three, four, five.",
+            "verbs": []
+        },
+        {
+            "spanish": "El libro cuesta veinte euros.",
+            "english": "The book costs twenty euros.",
+            "verbs": [
+                {
+                    "word": "cuesta",
+                    "infinitive": "costar",
+                    "meaning": "to cost",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo treinta y cinco años.",
+            "english": "I am thirty-five years old.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        }
+    ]
+}
