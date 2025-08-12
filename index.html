@@ -126,25 +126,22 @@
         }
 
         .card-face {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            backface-visibility: hidden;
-            -webkit-backface-visibility: hidden;
-            border-radius: var(--border-radius);
-            background-color: var(--card-bg-color);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            text-align: center;
-            font-size: 1.8em;
-            box-sizing: border-box;
-            
-            /* NEW: Prevent the text from wrapping onto a new line */
-            white-space: pre-wrap;
-            word-break: break-word;
-        }
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        border-radius: var(--border-radius);
+        background-color: var(--card-bg-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        text-align: center;
+        font-size: 1.8em;
+        box-sizing: border-box;
+    }
+
 
         #card-back {
             transform: rotateY(180deg);
@@ -195,14 +192,16 @@
             color: #7f8c8d;
         }
         
-        /* UPDATED: Remove margin/inline-block and just rely on the span for highlighting */
         .verb {
-            text-decoration: underline;
-            text-decoration-style: dotted;
-            text-decoration-color: var(--accent-color);
-            text-underline-offset: 4px;
-            cursor: help;
-            position: relative;
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-decoration-color: var(--accent-color);
+        text-underline-offset: 4px;
+        cursor: help;
+        position: relative;
+        /* NEW: This will prevent the verb and its tooltip from wrapping */
+        white-space: nowrap;
+    }
         }
 
         .verb .tooltip {
@@ -478,3 +477,4 @@
     </script>
 </body>
 </html>
+
