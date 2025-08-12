@@ -334,5 +334,4321 @@
                 }
             ]
         }
+    ],
+    "Shopping": [
+        {
+            "spanish": "¿Puedes ayudarme a encontrar estos zapatos?",
+            "english": "Can you help me find these shoes?",
+            "verbs": [
+                {
+                    "word": "puedes",
+                    "infinitive": "poder",
+                    "meaning": "to be able to, can",
+                    "conjugation": "Present, 2nd person singular (tú)"
+                },
+                {
+                    "word": "ayudarme",
+                    "infinitive": "ayudar",
+                    "meaning": "to help",
+                    "conjugation": "Infinitive + pronoun 'me'"
+                },
+                {
+                    "word": "encontrar",
+                    "infinitive": "encontrar",
+                    "meaning": "to find",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Quiero pagar con tarjeta de crédito.",
+            "english": "I want to pay with a credit card.",
+            "verbs": [
+                {
+                    "word": "Quiero",
+                    "infinitive": "querer",
+                    "meaning": "to want",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "pagar",
+                    "infinitive": "pagar",
+                    "meaning": "to pay",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Cuánto cuesta esta camisa?",
+            "english": "How much does this shirt cost?",
+            "verbs": [
+                {
+                    "word": "cuesta",
+                    "infinitive": "costar",
+                    "meaning": "to cost",
+                    "conjugation": "Present, 3rd person singular (la camisa)"
+                }
+            ]
+        },
+        {
+            "spanish": "Estamos buscando un regalo para mi padre.",
+            "english": "We are looking for a gift for my father.",
+            "verbs": [
+                {
+                    "word": "estamos buscando",
+                    "infinitive": "estar buscando",
+                    "meaning": "to be looking for",
+                    "conjugation": "Present Continuous, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesito comprar leche y pan.",
+            "english": "I need to buy milk and bread.",
+            "verbs": [
+                {
+                    "word": "Necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "comprar",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Hay una oferta especial en la tienda.",
+            "english": "There is a special offer in the store.",
+            "verbs": [
+                {
+                    "word": "Hay",
+                    "infinitive": "haber",
+                    "meaning": "there is/are",
+                    "conjugation": "Impersonal form"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Tienen este vestido en talla pequeña?",
+            "english": "Do you have this dress in a small size?",
+            "verbs": [
+                {
+                    "word": "Tienen",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person plural (ustedes)"
+                }
+            ]
+        },
+        {
+            "spanish": "Me gustaría probarme estos pantalones.",
+            "english": "I would like to try on these pants.",
+            "verbs": [
+                {
+                    "word": "gustaría",
+                    "infinitive": "gustar",
+                    "meaning": "to like",
+                    "conjugation": "Conditional, 3rd person singular"
+                },
+                {
+                    "word": "probarme",
+                    "infinitive": "probar",
+                    "meaning": "to try",
+                    "conjugation": "Infinitive + pronoun 'me'"
+                }
+            ]
+        },
+        {
+            "spanish": "La cajera me dio el recibo.",
+            "english": "The cashier gave me the receipt.",
+            "verbs": [
+                {
+                    "word": "dio",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Pagué con dinero en efectivo.",
+            "english": "I paid with cash.",
+            "verbs": [
+                {
+                    "word": "Pagué",
+                    "infinitive": "pagar",
+                    "meaning": "to pay",
+                    "conjugation": "Preterite, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "El mercado abre a las nueve de la mañana.",
+            "english": "The market opens at nine in the morning.",
+            "verbs": [
+                {
+                    "word": "abre",
+                    "infinitive": "abrir",
+                    "meaning": "to open",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Compré muchas frutas y verduras frescas.",
+            "english": "I bought a lot of fresh fruits and vegetables.",
+            "verbs": [
+                {
+                    "word": "Compré",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Preterite, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "La tienda cierra a las ocho de la noche.",
+            "english": "The store closes at eight at night.",
+            "verbs": [
+                {
+                    "word": "cierra",
+                    "infinitive": "cerrar",
+                    "meaning": "to close",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los precios de la ropa están rebajados.",
+            "english": "The prices of the clothes are reduced.",
+            "verbs": [
+                {
+                    "word": "están",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person plural"
+                },
+                {
+                    "word": "rebajados",
+                    "infinitive": "rebajar",
+                    "meaning": "to reduce",
+                    "conjugation": "Past Participle"
+                }
+            ]
+        },
+        {
+            "spanish": "Estoy buscando una ganga.",
+            "english": "I'm looking for a bargain.",
+            "verbs": [
+                {
+                    "word": "Estoy buscando",
+                    "infinitive": "estar buscando",
+                    "meaning": "to be looking for",
+                    "conjugation": "Present Continuous, 1st person singular"
+                }
+            ]
+        }
+    ],
+    "Travel": [
+        {
+            "spanish": "Quiero reservar un vuelo a Madrid.",
+            "english": "I want to book a flight to Madrid.",
+            "verbs": [
+                {
+                    "word": "Quiero",
+                    "infinitive": "querer",
+                    "meaning": "to want",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "reservar",
+                    "infinitive": "reservar",
+                    "meaning": "to book/reserve",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Dónde está la estación de tren?",
+            "english": "Where is the train station?",
+            "verbs": [
+                {
+                    "word": "está",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular (la estación)"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesito un mapa de la ciudad.",
+            "english": "I need a city map.",
+            "verbs": [
+                {
+                    "word": "Necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Me gustaría alquilar un coche.",
+            "english": "I would like to rent a car.",
+            "verbs": [
+                {
+                    "word": "gustaría",
+                    "infinitive": "gustar",
+                    "meaning": "to like",
+                    "conjugation": "Conditional, 3rd person singular"
+                },
+                {
+                    "word": "alquilar",
+                    "infinitive": "alquilar",
+                    "meaning": "to rent",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "¿A qué hora sale el autobús?",
+            "english": "What time does the bus leave?",
+            "verbs": [
+                {
+                    "word": "sale",
+                    "infinitive": "salir",
+                    "meaning": "to leave",
+                    "conjugation": "Present, 3rd person singular (el autobús)"
+                }
+            ]
+        },
+        {
+            "spanish": "Estoy perdido, ¿me puede ayudar?",
+            "english": "I am lost, can you help me?",
+            "verbs": [
+                {
+                    "word": "Estoy",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "puede",
+                    "infinitive": "poder",
+                    "meaning": "to be able to, can",
+                    "conjugation": "Present, 3rd person singular (usted)"
+                },
+                {
+                    "word": "ayudar",
+                    "infinitive": "ayudar",
+                    "meaning": "to help",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Visitamos muchos museos en la capital.",
+            "english": "We visited many museums in the capital.",
+            "verbs": [
+                {
+                    "word": "Visitamos",
+                    "infinitive": "visitar",
+                    "meaning": "to visit",
+                    "conjugation": "Preterite, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "La playa es muy bonita en verano.",
+            "english": "The beach is very beautiful in the summer.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Compré muchos recuerdos para mi familia.",
+            "english": "I bought a lot of souvenirs for my family.",
+            "verbs": [
+                {
+                    "word": "Compré",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Preterite, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Prefiero viajar en tren en lugar de en avión.",
+            "english": "I prefer to travel by train instead of by plane.",
+            "verbs": [
+                {
+                    "word": "Prefiero",
+                    "infinitive": "preferir",
+                    "meaning": "to prefer",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "viajar",
+                    "infinitive": "viajar",
+                    "meaning": "to travel",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Dónde puedo comprar un billete?",
+            "english": "Where can I buy a ticket?",
+            "verbs": [
+                {
+                    "word": "puedo",
+                    "infinitive": "poder",
+                    "meaning": "to be able to, can",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "comprar",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Me quedé en un hotel cerca del centro.",
+            "english": "I stayed in a hotel near the center.",
+            "verbs": [
+                {
+                    "word": "quedé",
+                    "infinitive": "quedar",
+                    "meaning": "to stay",
+                    "conjugation": "Preterite, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "El viaje fue muy largo, pero valió la pena.",
+            "english": "The trip was very long, but it was worth it.",
+            "verbs": [
+                {
+                    "word": "fue",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Preterite, 3rd person singular"
+                },
+                {
+                    "word": "valió",
+                    "infinitive": "valer",
+                    "meaning": "to be worth",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesitamos pasaportes para cruzar la frontera.",
+            "english": "We need passports to cross the border.",
+            "verbs": [
+                {
+                    "word": "Necesitamos",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                },
+                {
+                    "word": "cruzar",
+                    "infinitive": "cruzar",
+                    "meaning": "to cross",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Volaremos a Barcelona en dos horas.",
+            "english": "We will fly to Barcelona in two hours.",
+            "verbs": [
+                {
+                    "word": "Volaremos",
+                    "infinitive": "volar",
+                    "meaning": "to fly",
+                    "conjugation": "Future, 1st person plural"
+                }
+            ]
+        }
+    ],
+    "Hobbies": [
+        {
+            "spanish": "Me gusta leer libros de fantasía.",
+            "english": "I like to read fantasy books.",
+            "verbs": [
+                {
+                    "word": "gusta",
+                    "infinitive": "gustar",
+                    "meaning": "to like",
+                    "conjugation": "Present, 3rd person singular (el libro)"
+                },
+                {
+                    "word": "leer",
+                    "infinitive": "leer",
+                    "meaning": "to read",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Él toca la guitarra muy bien.",
+            "english": "He plays the guitar very well.",
+            "verbs": [
+                {
+                    "word": "toca",
+                    "infinitive": "tocar",
+                    "meaning": "to play (an instrument)",
+                    "conjugation": "Present, 3rd person singular (él)"
+                }
+            ]
+        },
+        {
+            "spanish": "Nosotros jugamos al fútbol todos los sábados.",
+            "english": "We play soccer every Saturday.",
+            "verbs": [
+                {
+                    "word": "jugamos",
+                    "infinitive": "jugar",
+                    "meaning": "to play (a game)",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella pinta hermosos cuadros al óleo.",
+            "english": "She paints beautiful oil paintings.",
+            "verbs": [
+                {
+                    "word": "pinta",
+                    "infinitive": "pintar",
+                    "meaning": "to paint",
+                    "conjugation": "Present, 3rd person singular (ella)"
+                }
+            ]
+        },
+        {
+            "spanish": "Me encanta ir al cine los fines de semana.",
+            "english": "I love going to the movies on weekends.",
+            "verbs": [
+                {
+                    "word": "encanta",
+                    "infinitive": "encantar",
+                    "meaning": "to love, be enchanted with",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "ir",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Ellos practican senderismo en las montañas.",
+            "english": "They practice hiking in the mountains.",
+            "verbs": [
+                {
+                    "word": "practican",
+                    "infinitive": "practicar",
+                    "meaning": "to practice",
+                    "conjugation": "Present, 3rd person plural (ellos)"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi hobby favorito es la jardinería.",
+            "english": "My favorite hobby is gardening.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Solemos correr en el parque por la mañana.",
+            "english": "We usually run in the park in the morning.",
+            "verbs": [
+                {
+                    "word": "Solemos",
+                    "infinitive": "soler",
+                    "meaning": "to usually do",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                },
+                {
+                    "word": "correr",
+                    "infinitive": "correr",
+                    "meaning": "to run",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Siempre he querido aprender a bailar salsa.",
+            "english": "I've always wanted to learn to dance salsa.",
+            "verbs": [
+                {
+                    "word": "he querido",
+                    "infinitive": "haber querido",
+                    "meaning": "to have wanted",
+                    "conjugation": "Present Perfect, 1st person singular"
+                },
+                {
+                    "word": "aprender",
+                    "infinitive": "aprender",
+                    "meaning": "to learn",
+                    "conjugation": "Infinitive"
+                },
+                {
+                    "word": "bailar",
+                    "infinitive": "bailar",
+                    "meaning": "to dance",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Tejer es una actividad muy relajante para mí.",
+            "english": "Knitting is a very relaxing activity for me.",
+            "verbs": [
+                {
+                    "word": "Tejer",
+                    "infinitive": "tejer",
+                    "meaning": "to knit",
+                    "conjugation": "Infinitive (used as a noun)"
+                },
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Después del trabajo, me gusta escuchar música.",
+            "english": "After work, I like to listen to music.",
+            "verbs": [
+                {
+                    "word": "gusta",
+                    "infinitive": "gustar",
+                    "meaning": "to like",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "escuchar",
+                    "infinitive": "escuchar",
+                    "meaning": "to listen",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella colecciona monedas de diferentes países.",
+            "english": "She collects coins from different countries.",
+            "verbs": [
+                {
+                    "word": "colecciona",
+                    "infinitive": "coleccionar",
+                    "meaning": "to collect",
+                    "conjugation": "Present, 3rd person singular (ella)"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi hermano y yo practicamos natación juntos.",
+            "english": "My brother and I practice swimming together.",
+            "verbs": [
+                {
+                    "word": "practicamos",
+                    "infinitive": "practicar",
+                    "meaning": "to practice",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "Nos divertimos mucho jugando videojuegos.",
+            "english": "We have a lot of fun playing video games.",
+            "verbs": [
+                {
+                    "word": "divertimos",
+                    "infinitive": "divertirse",
+                    "meaning": "to have fun",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                },
+                {
+                    "word": "jugando",
+                    "infinitive": "jugar",
+                    "meaning": "to play",
+                    "conjugation": "Gerund"
+                }
+            ]
+        },
+        {
+            "spanish": "He empezado a aprender a cocinar.",
+            "english": "I've started to learn how to cook.",
+            "verbs": [
+                {
+                    "word": "he empezado",
+                    "infinitive": "haber empezar",
+                    "meaning": "to have started",
+                    "conjugation": "Present Perfect, 1st person singular"
+                },
+                {
+                    "word": "aprender",
+                    "infinitive": "aprender",
+                    "meaning": "to learn",
+                    "conjugation": "Infinitive"
+                },
+                {
+                    "word": "cocinar",
+                    "infinitive": "cocinar",
+                    "meaning": "to cook",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Weather": [
+        {
+            "spanish": "Hace mucho sol hoy.",
+            "english": "It's very sunny today.",
+            "verbs": [
+                {
+                    "word": "Hace",
+                    "infinitive": "hacer",
+                    "meaning": "to make/do",
+                    "conjugation": "Present, 3rd person singular (used impersonally for weather)"
+                }
+            ]
+        },
+        {
+            "spanish": "Está lloviendo a cántaros.",
+            "english": "It's raining cats and dogs.",
+            "verbs": [
+                {
+                    "word": "Está lloviendo",
+                    "infinitive": "estar lloviendo",
+                    "meaning": "to be raining",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "Va a nevar mañana en las montañas.",
+            "english": "It's going to snow tomorrow in the mountains.",
+            "verbs": [
+                {
+                    "word": "Va",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Present, 3rd person singular (future)"
+                },
+                {
+                    "word": "nevar",
+                    "infinitive": "nevar",
+                    "meaning": "to snow",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El pronóstico dice que hará frío.",
+            "english": "The forecast says it will be cold.",
+            "verbs": [
+                {
+                    "word": "dice",
+                    "infinitive": "decir",
+                    "meaning": "to say",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "hará",
+                    "infinitive": "hacer",
+                    "meaning": "to make/do",
+                    "conjugation": "Future, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Qué tiempo hace en tu ciudad?",
+            "english": "What's the weather like in your city?",
+            "verbs": [
+                {
+                    "word": "hace",
+                    "infinitive": "hacer",
+                    "meaning": "to make/do",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Hay mucho viento esta noche.",
+            "english": "It's very windy tonight.",
+            "verbs": [
+                {
+                    "word": "Hay",
+                    "infinitive": "haber",
+                    "meaning": "there is/are",
+                    "conjugation": "Impersonal form"
+                }
+            ]
+        },
+        {
+            "spanish": "El cielo está despejado y sin nubes.",
+            "english": "The sky is clear and without clouds.",
+            "verbs": [
+                {
+                    "word": "está",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Sentimos la humedad del verano.",
+            "english": "We feel the humidity of summer.",
+            "verbs": [
+                {
+                    "word": "Sentimos",
+                    "infinitive": "sentir",
+                    "meaning": "to feel",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "El sol se puso detrás de las colinas.",
+            "english": "The sun set behind the hills.",
+            "verbs": [
+                {
+                    "word": "se puso",
+                    "infinitive": "ponerse",
+                    "meaning": "to set (for the sun)",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Hubo una tormenta eléctrica anoche.",
+            "english": "There was a thunderstorm last night.",
+            "verbs": [
+                {
+                    "word": "Hubo",
+                    "infinitive": "haber",
+                    "meaning": "there was/were",
+                    "conjugation": "Preterite, impersonal form"
+                }
+            ]
+        },
+        {
+            "spanish": "La niebla cubrió toda la ciudad.",
+            "english": "The fog covered the entire city.",
+            "verbs": [
+                {
+                    "word": "cubrió",
+                    "infinitive": "cubrir",
+                    "meaning": "to cover",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Las temperaturas bajarán esta semana.",
+            "english": "Temperatures will drop this week.",
+            "verbs": [
+                {
+                    "word": "bajarán",
+                    "infinitive": "bajar",
+                    "meaning": "to go down",
+                    "conjugation": "Future, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El viento sopló fuerte durante la noche.",
+            "english": "The wind blew hard during the night.",
+            "verbs": [
+                {
+                    "word": "sopló",
+                    "infinitive": "soplar",
+                    "meaning": "to blow",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Está nevando mucho.",
+            "english": "It's snowing a lot.",
+            "verbs": [
+                {
+                    "word": "Está nevando",
+                    "infinitive": "estar nevando",
+                    "meaning": "to be snowing",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "El calor es insoportable.",
+            "english": "The heat is unbearable.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Dining Out": [
+        {
+            "spanish": "Me gustaría pedir la sopa del día.",
+            "english": "I would like to order the soup of the day.",
+            "verbs": [
+                {
+                    "word": "gustaría",
+                    "infinitive": "gustar",
+                    "meaning": "to like",
+                    "conjugation": "Conditional, 3rd person singular"
+                },
+                {
+                    "word": "pedir",
+                    "infinitive": "pedir",
+                    "meaning": "to order",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Qué me recomienda de plato principal?",
+            "english": "What do you recommend for a main course?",
+            "verbs": [
+                {
+                    "word": "recomienda",
+                    "infinitive": "recomendar",
+                    "meaning": "to recommend",
+                    "conjugation": "Present, 3rd person singular (usted)"
+                }
+            ]
+        },
+        {
+            "spanish": "La cuenta, por favor.",
+            "english": "The check, please.",
+            "verbs": []
+        },
+        {
+            "spanish": "Este restaurante tiene un ambiente muy agradable.",
+            "english": "This restaurant has a very pleasant atmosphere.",
+            "verbs": [
+                {
+                    "word": "tiene",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El mesero nos trajo más pan.",
+            "english": "The waiter brought us more bread.",
+            "verbs": [
+                {
+                    "word": "trajo",
+                    "infinitive": "traer",
+                    "meaning": "to bring",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesitamos hacer una reserva para mañana.",
+            "english": "We need to make a reservation for tomorrow.",
+            "verbs": [
+                {
+                    "word": "Necesitamos",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                },
+                {
+                    "word": "hacer",
+                    "infinitive": "hacer",
+                    "meaning": "to make",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "La comida estaba deliciosa, los felicito.",
+            "english": "The food was delicious, congratulations.",
+            "verbs": [
+                {
+                    "word": "estaba",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Imperfect, 3rd person singular"
+                },
+                {
+                    "word": "felicito",
+                    "infinitive": "felicitar",
+                    "meaning": "to congratulate",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Quiero pagar con tarjeta, por favor.",
+            "english": "I want to pay with a card, please.",
+            "verbs": [
+                {
+                    "word": "Quiero",
+                    "infinitive": "querer",
+                    "meaning": "to want",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "pagar",
+                    "infinitive": "pagar",
+                    "meaning": "to pay",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Pedimos la ensalada de entrada y un filete de plato principal.",
+            "english": "We ordered the salad as a starter and a steak as a main course.",
+            "verbs": [
+                {
+                    "word": "Pedimos",
+                    "infinitive": "pedir",
+                    "meaning": "to order",
+                    "conjugation": "Preterite, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "¿Qué tipo de vino tienen?",
+            "english": "What kind of wine do you have?",
+            "verbs": [
+                {
+                    "word": "tienen",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person plural (ustedes)"
+                }
+            ]
+        },
+        {
+            "spanish": "No puedo comer mariscos por mi alergia.",
+            "english": "I can't eat shellfish because of my allergy.",
+            "verbs": [
+                {
+                    "word": "puedo",
+                    "infinitive": "poder",
+                    "meaning": "to be able to",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "comer",
+                    "infinitive": "comer",
+                    "meaning": "to eat",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Por favor, ¿me puede traer un vaso de agua?",
+            "english": "Please, can you bring me a glass of water?",
+            "verbs": [
+                {
+                    "word": "puede",
+                    "infinitive": "poder",
+                    "meaning": "to be able to",
+                    "conjugation": "Present, 3rd person singular (usted)"
+                },
+                {
+                    "word": "traer",
+                    "infinitive": "traer",
+                    "meaning": "to bring",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "La carne estaba un poco cruda.",
+            "english": "The meat was a little raw.",
+            "verbs": [
+                {
+                    "word": "estaba",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Imperfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "De postre, vamos a pedir el pastel de chocolate.",
+            "english": "For dessert, we are going to order the chocolate cake.",
+            "verbs": [
+                {
+                    "word": "vamos",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Present, 1st person plural (future)"
+                },
+                {
+                    "word": "pedir",
+                    "infinitive": "pedir",
+                    "meaning": "to order",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El chef se esmeró en la presentación de los platos.",
+            "english": "The chef took great care in the presentation of the dishes.",
+            "verbs": [
+                {
+                    "word": "esmeró",
+                    "infinitive": "esmerarse",
+                    "meaning": "to take great care",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Household Chores": [
+        {
+            "spanish": "Tengo que limpiar la cocina después de cenar.",
+            "english": "I have to clean the kitchen after dinner.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "limpiar",
+                    "infinitive": "limpiar",
+                    "meaning": "to clean",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Él barre el piso de la sala de estar.",
+            "english": "He sweeps the floor of the living room.",
+            "verbs": [
+                {
+                    "word": "barre",
+                    "infinitive": "barrer",
+                    "meaning": "to sweep",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesitas poner la ropa en la lavadora.",
+            "english": "You need to put the clothes in the washing machine.",
+            "verbs": [
+                {
+                    "word": "Necesitas",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 2nd person singular"
+                },
+                {
+                    "word": "poner",
+                    "infinitive": "poner",
+                    "meaning": "to put",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Me toca a mí sacar la basura hoy.",
+            "english": "It's my turn to take out the trash today.",
+            "verbs": [
+                {
+                    "word": "toca",
+                    "infinitive": "tocar",
+                    "meaning": "to be one's turn",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "sacar",
+                    "infinitive": "sacar",
+                    "meaning": "to take out",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Pasé la aspiradora por toda la casa.",
+            "english": "I vacuumed the whole house.",
+            "verbs": [
+                {
+                    "word": "Pasé",
+                    "infinitive": "pasar",
+                    "meaning": "to pass",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella planchó todas las camisas ayer.",
+            "english": "She ironed all the shirts yesterday.",
+            "verbs": [
+                {
+                    "word": "planchó",
+                    "infinitive": "planchar",
+                    "meaning": "to iron",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi hermano se encarga de regar las plantas.",
+            "english": "My brother is in charge of watering the plants.",
+            "verbs": [
+                {
+                    "word": "se encarga",
+                    "infinitive": "encargarse",
+                    "meaning": "to be in charge of",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "regar",
+                    "infinitive": "regar",
+                    "meaning": "to water",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Hay que lavar los platos a mano.",
+            "english": "The dishes must be washed by hand.",
+            "verbs": [
+                {
+                    "word": "Hay",
+                    "infinitive": "haber",
+                    "meaning": "to have to",
+                    "conjugation": "Impersonal form"
+                },
+                {
+                    "word": "lavar",
+                    "infinitive": "lavar",
+                    "meaning": "to wash",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Colgué la ropa en el tendedero.",
+            "english": "I hung the clothes on the clothesline.",
+            "verbs": [
+                {
+                    "word": "Colgué",
+                    "infinitive": "colgar",
+                    "meaning": "to hang",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Por favor, dobla la ropa limpia.",
+            "english": "Please, fold the clean clothes.",
+            "verbs": [
+                {
+                    "word": "dobla",
+                    "infinitive": "doblar",
+                    "meaning": "to fold",
+                    "conjugation": "Imperative, 2nd person singular (tú)"
+                }
+            ]
+        },
+        {
+            "spanish": "Tenemos que cambiar las sábanas de la cama.",
+            "english": "We have to change the bed sheets.",
+            "verbs": [
+                {
+                    "word": "Tenemos",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                },
+                {
+                    "word": "cambiar",
+                    "infinitive": "cambiar",
+                    "meaning": "to change",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Limpié el baño de arriba a abajo.",
+            "english": "I cleaned the bathroom from top to bottom.",
+            "verbs": [
+                {
+                    "word": "Limpié",
+                    "infinitive": "limpiar",
+                    "meaning": "to clean",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El jardín necesita ser podado.",
+            "english": "The garden needs to be pruned.",
+            "verbs": [
+                {
+                    "word": "necesita",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "ser podado",
+                    "infinitive": "ser podado",
+                    "meaning": "to be pruned",
+                    "conjugation": "Passive voice"
+                }
+            ]
+        },
+        {
+            "spanish": "Me encargué de ir a comprar comida.",
+            "english": "I took care of going to buy food.",
+            "verbs": [
+                {
+                    "word": "encargué",
+                    "infinitive": "encargarse",
+                    "meaning": "to take care of",
+                    "conjugation": "Preterite, 1st person singular"
+                },
+                {
+                    "word": "comprar",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella quitó el polvo de los muebles.",
+            "english": "She dusted the furniture.",
+            "verbs": [
+                {
+                    "word": "quitó",
+                    "infinitive": "quitar",
+                    "meaning": "to remove",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Emotions": [
+        {
+            "spanish": "Me siento muy feliz de verte.",
+            "english": "I feel very happy to see you.",
+            "verbs": [
+                {
+                    "word": "siento",
+                    "infinitive": "sentirse",
+                    "meaning": "to feel",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "verte",
+                    "infinitive": "ver",
+                    "meaning": "to see",
+                    "conjugation": "Infinitive + pronoun 'te'"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella está triste porque su perro se enfermó.",
+            "english": "She is sad because her dog got sick.",
+            "verbs": [
+                {
+                    "word": "está",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "enfermó",
+                    "infinitive": "enfermarse",
+                    "meaning": "to get sick",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Él se enojó mucho con la noticia.",
+            "english": "He got very angry with the news.",
+            "verbs": [
+                {
+                    "word": "se enojó",
+                    "infinitive": "enojarse",
+                    "meaning": "to get angry",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Nos sorprendimos con el regalo inesperado.",
+            "english": "We were surprised by the unexpected gift.",
+            "verbs": [
+                {
+                    "word": "sorprendimos",
+                    "infinitive": "sorprenderse",
+                    "meaning": "to be surprised",
+                    "conjugation": "Preterite, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo miedo de las alturas.",
+            "english": "I am afraid of heights.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular (yo)"
+                }
+            ]
+        },
+        {
+            "spanish": "Ellos están preocupados por el examen.",
+            "english": "They are worried about the exam.",
+            "verbs": [
+                {
+                    "word": "están",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Me da vergüenza hablar en público.",
+            "english": "I am embarrassed to speak in public.",
+            "verbs": [
+                {
+                    "word": "da",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "hablar",
+                    "infinitive": "hablar",
+                    "meaning": "to speak",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El niño se sintió avergonzado.",
+            "english": "The boy felt ashamed.",
+            "verbs": [
+                {
+                    "word": "sintió",
+                    "infinitive": "sentirse",
+                    "meaning": "to feel",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Nos reímos mucho con esa película.",
+            "english": "We laughed a lot with that movie.",
+            "verbs": [
+                {
+                    "word": "reímos",
+                    "infinitive": "reírse",
+                    "meaning": "to laugh",
+                    "conjugation": "Preterite, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El abuelo siempre se pone nostálgico al ver fotos antiguas.",
+            "english": "Grandpa always gets nostalgic when he sees old photos.",
+            "verbs": [
+                {
+                    "word": "se pone",
+                    "infinitive": "ponerse",
+                    "meaning": "to become, get",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "ver",
+                    "infinitive": "ver",
+                    "meaning": "to see",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Tuve un ataque de nervios cuando me enteré.",
+            "english": "I had a nervous breakdown when I found out.",
+            "verbs": [
+                {
+                    "word": "Tuve",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Preterite, 1st person singular"
+                },
+                {
+                    "word": "enteré",
+                    "infinitive": "enterarse",
+                    "meaning": "to find out",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella se sintió aliviada al terminar el proyecto.",
+            "english": "She felt relieved when she finished the project.",
+            "verbs": [
+                {
+                    "word": "sintió",
+                    "infinitive": "sentirse",
+                    "meaning": "to feel",
+                    "conjugation": "Preterite, 3rd person singular"
+                },
+                {
+                    "word": "terminar",
+                    "infinitive": "terminar",
+                    "meaning": "to finish",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Me siento un poco decepcionado por el resultado.",
+            "english": "I feel a little disappointed with the result.",
+            "verbs": [
+                {
+                    "word": "siento",
+                    "infinitive": "sentirse",
+                    "meaning": "to feel",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Estaba furiosa cuando lo descubrí.",
+            "english": "I was furious when I discovered it.",
+            "verbs": [
+                {
+                    "word": "Estaba",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Imperfect, 1st person singular"
+                },
+                {
+                    "word": "descubrí",
+                    "infinitive": "descubrir",
+                    "meaning": "to discover",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi corazón late de emoción.",
+            "english": "My heart is beating with excitement.",
+            "verbs": [
+                {
+                    "word": "late",
+                    "infinitive": "latir",
+                    "meaning": "to beat",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Physical Appearance": [
+        {
+            "spanish": "Tiene el pelo largo y rizado.",
+            "english": "She has long, curly hair.",
+            "verbs": [
+                {
+                    "word": "Tiene",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Él es alto y delgado, con ojos azules.",
+            "english": "He is tall and thin, with blue eyes.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Llevo gafas para leer.",
+            "english": "I wear glasses for reading.",
+            "verbs": [
+                {
+                    "word": "Llevo",
+                    "infinitive": "llevar",
+                    "meaning": "to wear",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "leer",
+                    "infinitive": "leer",
+                    "meaning": "to read",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi hermana tiene una sonrisa muy bonita.",
+            "english": "My sister has a very beautiful smile.",
+            "verbs": [
+                {
+                    "word": "tiene",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El hombre que vimos llevaba bigote.",
+            "english": "The man we saw had a mustache.",
+            "verbs": [
+                {
+                    "word": "vimos",
+                    "infinitive": "ver",
+                    "meaning": "to see",
+                    "conjugation": "Preterite, 1st person plural"
+                },
+                {
+                    "word": "llevaba",
+                    "infinitive": "llevar",
+                    "meaning": "to wear/have",
+                    "conjugation": "Imperfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella se tiñe el pelo de rubio.",
+            "english": "She dyes her hair blonde.",
+            "verbs": [
+                {
+                    "word": "se tiñe",
+                    "infinitive": "teñirse",
+                    "meaning": "to dye one's hair",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo pecas en la cara.",
+            "english": "I have freckles on my face.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi padre se está quedando calvo.",
+            "english": "My father is going bald.",
+            "verbs": [
+                {
+                    "word": "está quedando",
+                    "infinitive": "estar quedando",
+                    "meaning": "to be becoming",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella tiene una figura esbelta.",
+            "english": "She has a slender figure.",
+            "verbs": [
+                {
+                    "word": "tiene",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Se parece a su madre.",
+            "english": "He/She looks like his/her mother.",
+            "verbs": [
+                {
+                    "word": "parece",
+                    "infinitive": "parecerse",
+                    "meaning": "to look like",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Su piel es muy pálida.",
+            "english": "Her skin is very pale.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Llevaba una barba bien cuidada.",
+            "english": "He had a well-groomed beard.",
+            "verbs": [
+                {
+                    "word": "llevaba",
+                    "infinitive": "llevar",
+                    "meaning": "to have, wear",
+                    "conjugation": "Imperfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Se hizo un tatuaje en el brazo.",
+            "english": "She got a tattoo on her arm.",
+            "verbs": [
+                {
+                    "word": "hizo",
+                    "infinitive": "hacerse",
+                    "meaning": "to get, have done",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo una cicatriz en la rodilla.",
+            "english": "I have a scar on my knee.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Siempre lleva maquillaje en los ojos.",
+            "english": "She always wears eye makeup.",
+            "verbs": [
+                {
+                    "word": "lleva",
+                    "infinitive": "llevar",
+                    "meaning": "to wear",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Health": [
+        {
+            "spanish": "Me duele la cabeza, necesito tomar una pastilla.",
+            "english": "My head hurts, I need to take a pill.",
+            "verbs": [
+                {
+                    "word": "duele",
+                    "infinitive": "doler",
+                    "meaning": "to hurt",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "tomar",
+                    "infinitive": "tomar",
+                    "meaning": "to take",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Estoy resfriado y tengo tos.",
+            "english": "I have a cold and a cough.",
+            "verbs": [
+                {
+                    "word": "Estoy",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El doctor me recomendó hacer más ejercicio.",
+            "english": "The doctor recommended I exercise more.",
+            "verbs": [
+                {
+                    "word": "recomendó",
+                    "infinitive": "recomendar",
+                    "meaning": "to recommend",
+                    "conjugation": "Preterite, 3rd person singular"
+                },
+                {
+                    "word": "hacer",
+                    "infinitive": "hacer",
+                    "meaning": "to do/make",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo que ir a la farmacia a comprar medicinas.",
+            "english": "I have to go to the pharmacy to buy medicine.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "ir",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Infinitive"
+                },
+                {
+                    "word": "comprar",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Me rompí el brazo jugando al tenis.",
+            "english": "I broke my arm playing tennis.",
+            "verbs": [
+                {
+                    "word": "rompí",
+                    "infinitive": "romper",
+                    "meaning": "to break",
+                    "conjugation": "Preterite, 1st person singular"
+                },
+                {
+                    "word": "jugando",
+                    "infinitive": "jugar",
+                    "meaning": "to play",
+                    "conjugation": "Gerund"
+                }
+            ]
+        },
+        {
+            "spanish": "Es importante beber mucha agua para mantenerse hidratado.",
+            "english": "It is important to drink a lot of water to stay hydrated.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "beber",
+                    "infinitive": "beber",
+                    "meaning": "to drink",
+                    "conjugation": "Infinitive"
+                },
+                {
+                    "word": "mantenerse",
+                    "infinitive": "mantenerse",
+                    "meaning": "to stay",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesito una cita con el dentista.",
+            "english": "I need an appointment with the dentist.",
+            "verbs": [
+                {
+                    "word": "Necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Siento un dolor agudo en la espalda.",
+            "english": "I feel a sharp pain in my back.",
+            "verbs": [
+                {
+                    "word": "Siento",
+                    "infinitive": "sentir",
+                    "meaning": "to feel",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tienes que tomarte este jarabe tres veces al día.",
+            "english": "You have to take this syrup three times a day.",
+            "verbs": [
+                {
+                    "word": "Tienes",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 2nd person singular"
+                },
+                {
+                    "word": "tomarte",
+                    "infinitive": "tomar",
+                    "meaning": "to take",
+                    "conjugation": "Infinitive + pronoun 'te'"
+                }
+            ]
+        },
+        {
+            "spanish": "Me hicieron un chequeo médico completo.",
+            "english": "They gave me a complete medical check-up.",
+            "verbs": [
+                {
+                    "word": "hicieron",
+                    "infinitive": "hacer",
+                    "meaning": "to do/make",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "La enfermera me puso una inyección.",
+            "english": "The nurse gave me an injection.",
+            "verbs": [
+                {
+                    "word": "puso",
+                    "infinitive": "poner",
+                    "meaning": "to put",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella se desmayó por el calor.",
+            "english": "She fainted from the heat.",
+            "verbs": [
+                {
+                    "word": "se desmayó",
+                    "infinitive": "desmayarse",
+                    "meaning": "to faint",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La operación fue un éxito, se recupera bien.",
+            "english": "The operation was a success, she is recovering well.",
+            "verbs": [
+                {
+                    "word": "fue",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Preterite, 3rd person singular"
+                },
+                {
+                    "word": "recupera",
+                    "infinitive": "recuperarse",
+                    "meaning": "to recover",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Voy al gimnasio para mantenerme en forma.",
+            "english": "I go to the gym to stay in shape.",
+            "verbs": [
+                {
+                    "word": "Voy",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "mantenerme",
+                    "infinitive": "mantener",
+                    "meaning": "to stay/maintain",
+                    "conjugation": "Infinitive + pronoun 'me'"
+                }
+            ]
+        },
+        {
+            "spanish": "Es crucial tener una dieta equilibrada.",
+            "english": "It is crucial to have a balanced diet.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "tener",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Art": [
+        {
+            "spanish": "Me encanta la pintura renacentista italiana.",
+            "english": "I love Italian Renaissance painting.",
+            "verbs": [
+                {
+                    "word": "encanta",
+                    "infinitive": "encantar",
+                    "meaning": "to love",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El museo de arte moderno expone obras de Picasso.",
+            "english": "The modern art museum exhibits works by Picasso.",
+            "verbs": [
+                {
+                    "word": "expone",
+                    "infinitive": "exponer",
+                    "meaning": "to exhibit",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Visitamos el Museo del Prado en Madrid.",
+            "english": "We visited the Prado Museum in Madrid.",
+            "verbs": [
+                {
+                    "word": "Visitamos",
+                    "infinitive": "visitar",
+                    "meaning": "to visit",
+                    "conjugation": "Preterite, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella es una artista muy talentosa.",
+            "english": "She is a very talented artist.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Me gusta la escultura más que la pintura.",
+            "english": "I like sculpture more than painting.",
+            "verbs": [
+                {
+                    "word": "gusta",
+                    "infinitive": "gustar",
+                    "meaning": "to like",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El cuadro fue pintado en el siglo XVII.",
+            "english": "The painting was painted in the 17th century.",
+            "verbs": [
+                {
+                    "word": "fue pintado",
+                    "infinitive": "ser pintar",
+                    "meaning": "to be painted",
+                    "conjugation": "Preterite, passive voice"
+                }
+            ]
+        },
+        {
+            "spanish": "He leído un libro sobre la historia del arte.",
+            "english": "I have read a book about the history of art.",
+            "verbs": [
+                {
+                    "word": "he leído",
+                    "infinitive": "haber leer",
+                    "meaning": "to have read",
+                    "conjugation": "Present Perfect, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El concierto de música clásica fue fascinante.",
+            "english": "The classical music concert was fascinating.",
+            "verbs": [
+                {
+                    "word": "fue",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La exposición de fotografía cierra la próxima semana.",
+            "english": "The photography exhibition closes next week.",
+            "verbs": [
+                {
+                    "word": "cierra",
+                    "infinitive": "cerrar",
+                    "meaning": "to close",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El artista se inspira en la naturaleza.",
+            "english": "The artist is inspired by nature.",
+            "verbs": [
+                {
+                    "word": "inspira",
+                    "infinitive": "inspirarse",
+                    "meaning": "to be inspired",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Estoy estudiando la arquitectura gótica.",
+            "english": "I am studying Gothic architecture.",
+            "verbs": [
+                {
+                    "word": "Estoy estudiando",
+                    "infinitive": "estar estudiando",
+                    "meaning": "to be studying",
+                    "conjugation": "Present Continuous, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El director de orquesta dirigió la sinfonía con pasión.",
+            "english": "The conductor led the symphony with passion.",
+            "verbs": [
+                {
+                    "word": "dirigió",
+                    "infinitive": "dirigir",
+                    "meaning": "to conduct",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La obra de teatro fue representada en un antiguo teatro.",
+            "english": "The play was performed in an old theater.",
+            "verbs": [
+                {
+                    "word": "fue representada",
+                    "infinitive": "ser representar",
+                    "meaning": "to be performed",
+                    "conjugation": "Preterite, passive voice"
+                }
+            ]
+        },
+        {
+            "spanish": "Escribió un poema muy conmovedor.",
+            "english": "He wrote a very moving poem.",
+            "verbs": [
+                {
+                    "word": "Escribió",
+                    "infinitive": "escribir",
+                    "meaning": "to write",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La escultura de bronce está en la plaza central.",
+            "english": "The bronze sculpture is in the central square.",
+            "verbs": [
+                {
+                    "word": "está",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "History": [
+        {
+            "spanish": "La Revolución Francesa comenzó en 1789.",
+            "english": "The French Revolution began in 1789.",
+            "verbs": [
+                {
+                    "word": "comenzó",
+                    "infinitive": "comenzar",
+                    "meaning": "to begin",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Cristóbal Colón descubrió América en 1492.",
+            "english": "Christopher Columbus discovered America in 1492.",
+            "verbs": [
+                {
+                    "word": "descubrió",
+                    "infinitive": "descubrir",
+                    "meaning": "to discover",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Estudiamos la historia de la civilización romana.",
+            "english": "We are studying the history of Roman civilization.",
+            "verbs": [
+                {
+                    "word": "Estudiamos",
+                    "infinitive": "estudiar",
+                    "meaning": "to study",
+                    "conjugation": "Present, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "La Segunda Guerra Mundial terminó en 1945.",
+            "english": "The Second World War ended in 1945.",
+            "verbs": [
+                {
+                    "word": "terminó",
+                    "infinitive": "terminar",
+                    "meaning": "to end",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El Imperio Inca se extendía por los Andes.",
+            "english": "The Inca Empire extended through the Andes.",
+            "verbs": [
+                {
+                    "word": "extendía",
+                    "infinitive": "extenderse",
+                    "meaning": "to extend",
+                    "conjugation": "Imperfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La construcción de la Gran Muralla China duró siglos.",
+            "english": "The construction of the Great Wall of China lasted for centuries.",
+            "verbs": [
+                {
+                    "word": "duró",
+                    "infinitive": "durar",
+                    "meaning": "to last",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El Renacimiento fue una época de gran cambio cultural.",
+            "english": "The Renaissance was a time of great cultural change.",
+            "verbs": [
+                {
+                    "word": "fue",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los antiguos egipcios construyeron las pirámides.",
+            "english": "The ancient Egyptians built the pyramids.",
+            "verbs": [
+                {
+                    "word": "construyeron",
+                    "infinitive": "construir",
+                    "meaning": "to build",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Napoleón Bonaparte conquistó gran parte de Europa.",
+            "english": "Napoleon Bonaparte conquered a large part of Europe.",
+            "verbs": [
+                {
+                    "word": "conquistó",
+                    "infinitive": "conquistar",
+                    "meaning": "to conquer",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El descubrimiento de la penicilina cambió la medicina.",
+            "english": "The discovery of penicillin changed medicine.",
+            "verbs": [
+                {
+                    "word": "cambió",
+                    "infinitive": "cambiar",
+                    "meaning": "to change",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La invención de la imprenta revolucionó la comunicación.",
+            "english": "The invention of the printing press revolutionized communication.",
+            "verbs": [
+                {
+                    "word": "revolucionó",
+                    "infinitive": "revolucionar",
+                    "meaning": "to revolutionize",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los colonos llegaron a América en el siglo XVII.",
+            "english": "The colonists arrived in America in the 17th century.",
+            "verbs": [
+                {
+                    "word": "llegaron",
+                    "infinitive": "llegar",
+                    "meaning": "to arrive",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "La Guerra Civil Española duró tres años.",
+            "english": "The Spanish Civil War lasted three years.",
+            "verbs": [
+                {
+                    "word": "duró",
+                    "infinitive": "durar",
+                    "meaning": "to last",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los romanos fundaron la ciudad hace dos mil años.",
+            "english": "The Romans founded the city two thousand years ago.",
+            "verbs": [
+                {
+                    "word": "fundaron",
+                    "infinitive": "fundar",
+                    "meaning": "to found",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Conocemos el pasado a través de la arqueología.",
+            "english": "We know the past through archaeology.",
+            "verbs": [
+                {
+                    "word": "Conocemos",
+                    "infinitive": "conocer",
+                    "meaning": "to know",
+                    "conjugation": "Present, 1st person plural"
+                }
+            ]
+        }
+    ],
+    "Nature": [
+        {
+            "spanish": "El río fluye entre las montañas.",
+            "english": "The river flows between the mountains.",
+            "verbs": [
+                {
+                    "word": "fluye",
+                    "infinitive": "fluir",
+                    "meaning": "to flow",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Vimos un hermoso atardecer en la playa.",
+            "english": "We saw a beautiful sunset on the beach.",
+            "verbs": [
+                {
+                    "word": "Vimos",
+                    "infinitive": "ver",
+                    "meaning": "to see",
+                    "conjugation": "Preterite, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Los pájaros cantan por la mañana.",
+            "english": "The birds sing in the morning.",
+            "verbs": [
+                {
+                    "word": "cantan",
+                    "infinitive": "cantar",
+                    "meaning": "to sing",
+                    "conjugation": "Present, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El bosque está lleno de árboles y plantas.",
+            "english": "The forest is full of trees and plants.",
+            "verbs": [
+                {
+                    "word": "está",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Subimos a la cima del volcán.",
+            "english": "We climbed to the top of the volcano.",
+            "verbs": [
+                {
+                    "word": "Subimos",
+                    "infinitive": "subir",
+                    "meaning": "to climb",
+                    "conjugation": "Preterite, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Hay una cascada muy grande cerca de aquí.",
+            "english": "There is a very large waterfall near here.",
+            "verbs": [
+                {
+                    "word": "Hay",
+                    "infinitive": "haber",
+                    "meaning": "there is/are",
+                    "conjugation": "Impersonal form"
+                }
+            ]
+        },
+        {
+            "spanish": "La luna brilla en la oscuridad.",
+            "english": "The moon shines in the dark.",
+            "verbs": [
+                {
+                    "word": "brilla",
+                    "infinitive": "brillar",
+                    "meaning": "to shine",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El sol calienta la tierra.",
+            "english": "The sun heats the earth.",
+            "verbs": [
+                {
+                    "word": "calienta",
+                    "infinitive": "calentar",
+                    "meaning": "to heat",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Las olas del mar rompen en la orilla.",
+            "english": "The ocean waves break on the shore.",
+            "verbs": [
+                {
+                    "word": "rompen",
+                    "infinitive": "romper",
+                    "meaning": "to break",
+                    "conjugation": "Present, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Fuimos a observar las estrellas al desierto.",
+            "english": "We went to observe the stars in the desert.",
+            "verbs": [
+                {
+                    "word": "Fuimos",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Preterite, 1st person plural"
+                },
+                {
+                    "word": "observar",
+                    "infinitive": "observar",
+                    "meaning": "to observe",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Las flores florecen en primavera.",
+            "english": "The flowers bloom in spring.",
+            "verbs": [
+                {
+                    "word": "florecen",
+                    "infinitive": "florecer",
+                    "meaning": "to bloom",
+                    "conjugation": "Present, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "La lluvia alimentó los campos secos.",
+            "english": "The rain fed the dry fields.",
+            "verbs": [
+                {
+                    "word": "alimentó",
+                    "infinitive": "alimentar",
+                    "meaning": "to feed",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El aire en el campo es muy puro.",
+            "english": "The air in the countryside is very pure.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Caminamos por un sendero en el bosque.",
+            "english": "We walked along a path in the forest.",
+            "verbs": [
+                {
+                    "word": "Caminamos",
+                    "infinitive": "caminar",
+                    "meaning": "to walk",
+                    "conjugation": "Preterite, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El sol se levantó sobre el mar.",
+            "english": "The sun rose over the sea.",
+            "verbs": [
+                {
+                    "word": "se levantó",
+                    "infinitive": "levantarse",
+                    "meaning": "to rise",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Technology": [
+        {
+            "spanish": "Mi teléfono inteligente tiene una cámara muy buena.",
+            "english": "My smartphone has a very good camera.",
+            "verbs": [
+                {
+                    "word": "tiene",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesito descargar una aplicación para este programa.",
+            "english": "I need to download an app for this program.",
+            "verbs": [
+                {
+                    "word": "Necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "descargar",
+                    "infinitive": "descargar",
+                    "meaning": "to download",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Mandé un correo electrónico importante a mi jefe.",
+            "english": "I sent an important email to my boss.",
+            "verbs": [
+                {
+                    "word": "Mandé",
+                    "infinitive": "mandar",
+                    "meaning": "to send",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Navegué por internet para buscar información.",
+            "english": "I surfed the internet to look for information.",
+            "verbs": [
+                {
+                    "word": "Navegué",
+                    "infinitive": "navegar",
+                    "meaning": "to surf/navigate",
+                    "conjugation": "Preterite, 1st person singular"
+                },
+                {
+                    "word": "buscar",
+                    "infinitive": "buscar",
+                    "meaning": "to look for",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El WiFi no funciona bien en esta zona.",
+            "english": "The WiFi doesn't work well in this area.",
+            "verbs": [
+                {
+                    "word": "funciona",
+                    "infinitive": "funcionar",
+                    "meaning": "to work",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Estoy escribiendo en mi computadora portátil.",
+            "english": "I am typing on my laptop.",
+            "verbs": [
+                {
+                    "word": "Estoy escribiendo",
+                    "infinitive": "estar escribir",
+                    "meaning": "to be writing/typing",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella subió una foto a sus redes sociales.",
+            "english": "She uploaded a photo to her social media.",
+            "verbs": [
+                {
+                    "word": "subió",
+                    "infinitive": "subir",
+                    "meaning": "to upload",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Vamos a ver una película en streaming.",
+            "english": "We're going to watch a movie via streaming.",
+            "verbs": [
+                {
+                    "word": "Vamos",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Present, 1st person plural (future)"
+                },
+                {
+                    "word": "ver",
+                    "infinitive": "ver",
+                    "meaning": "to see/watch",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Mi impresora se quedó sin tinta.",
+            "english": "My printer ran out of ink.",
+            "verbs": [
+                {
+                    "word": "quedó",
+                    "infinitive": "quedarse",
+                    "meaning": "to run out of",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Estoy haciendo una copia de seguridad de mis archivos.",
+            "english": "I am backing up my files.",
+            "verbs": [
+                {
+                    "word": "Estoy haciendo",
+                    "infinitive": "estar haciendo",
+                    "meaning": "to be doing/making",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "El programa se cerró inesperadamente.",
+            "english": "The program closed unexpectedly.",
+            "verbs": [
+                {
+                    "word": "se cerró",
+                    "infinitive": "cerrarse",
+                    "meaning": "to close",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesitas actualizar el software de tu computadora.",
+            "english": "You need to update your computer's software.",
+            "verbs": [
+                {
+                    "word": "Necesitas",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 2nd person singular"
+                },
+                {
+                    "word": "actualizar",
+                    "infinitive": "actualizar",
+                    "meaning": "to update",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El sitio web se cayó por un error.",
+            "english": "The website crashed due to an error.",
+            "verbs": [
+                {
+                    "word": "se cayó",
+                    "infinitive": "caerse",
+                    "meaning": "to fall down/crash",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Usamos la tableta para leer las noticias.",
+            "english": "We use the tablet to read the news.",
+            "verbs": [
+                {
+                    "word": "Usamos",
+                    "infinitive": "usar",
+                    "meaning": "to use",
+                    "conjugation": "Present, 1st person plural"
+                },
+                {
+                    "word": "leer",
+                    "infinitive": "leer",
+                    "meaning": "to read",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "La inteligencia artificial avanza muy rápido.",
+            "english": "Artificial intelligence is advancing very quickly.",
+            "verbs": [
+                {
+                    "word": "avanza",
+                    "infinitive": "avanzar",
+                    "meaning": "to advance",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "News & Current Events": [
+        {
+            "spanish": "El presidente dio un discurso ayer por la noche.",
+            "english": "The president gave a speech last night.",
+            "verbs": [
+                {
+                    "word": "dio",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Las protestas se extendieron por toda la ciudad.",
+            "english": "The protests spread throughout the city.",
+            "verbs": [
+                {
+                    "word": "extendieron",
+                    "infinitive": "extenderse",
+                    "meaning": "to spread",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El tratado de paz fue firmado por ambos países.",
+            "english": "The peace treaty was signed by both countries.",
+            "verbs": [
+                {
+                    "word": "fue firmado",
+                    "infinitive": "ser firmar",
+                    "meaning": "to be signed",
+                    "conjugation": "Preterite, passive voice"
+                }
+            ]
+        },
+        {
+            "spanish": "El cambio climático es un problema global.",
+            "english": "Climate change is a global problem.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los periodistas informaron sobre el incidente.",
+            "english": "The journalists reported on the incident.",
+            "verbs": [
+                {
+                    "word": "informaron",
+                    "infinitive": "informar",
+                    "meaning": "to report",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El gobierno anunció nuevas leyes de inmigración.",
+            "english": "The government announced new immigration laws.",
+            "verbs": [
+                {
+                    "word": "anunció",
+                    "infinitive": "anunciar",
+                    "meaning": "to announce",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Se descubrió una nueva especie de animal.",
+            "english": "A new species of animal was discovered.",
+            "verbs": [
+                {
+                    "word": "descubrió",
+                    "infinitive": "descubrir",
+                    "meaning": "to discover",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La bolsa de valores ha caído drásticamente.",
+            "english": "The stock market has fallen drastically.",
+            "verbs": [
+                {
+                    "word": "ha caído",
+                    "infinitive": "haber caer",
+                    "meaning": "to have fallen",
+                    "conjugation": "Present Perfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los rescatistas encontraron a los sobrevivientes.",
+            "english": "Rescuers found the survivors.",
+            "verbs": [
+                {
+                    "word": "encontraron",
+                    "infinitive": "encontrar",
+                    "meaning": "to find",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El huracán causó muchos daños en la costa.",
+            "english": "The hurricane caused a lot of damage on the coast.",
+            "verbs": [
+                {
+                    "word": "causó",
+                    "infinitive": "causar",
+                    "meaning": "to cause",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El candidato ganó las elecciones con una gran mayoría.",
+            "english": "The candidate won the elections with a large majority.",
+            "verbs": [
+                {
+                    "word": "ganó",
+                    "infinitive": "ganar",
+                    "meaning": "to win",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Han surgido nuevas tensiones entre las dos naciones.",
+            "english": "New tensions have arisen between the two nations.",
+            "verbs": [
+                {
+                    "word": "Han surgido",
+                    "infinitive": "haber surgir",
+                    "meaning": "to have arisen",
+                    "conjugation": "Present Perfect, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Un meteorito cayó en el desierto.",
+            "english": "A meteorite fell in the desert.",
+            "verbs": [
+                {
+                    "word": "cayó",
+                    "infinitive": "caer",
+                    "meaning": "to fall",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El actor fue arrestado por conducir ebrio.",
+            "english": "The actor was arrested for drunk driving.",
+            "verbs": [
+                {
+                    "word": "fue arrestado",
+                    "infinitive": "ser arrestar",
+                    "meaning": "to be arrested",
+                    "conjugation": "Preterite, passive voice"
+                },
+                {
+                    "word": "conducir",
+                    "infinitive": "conducir",
+                    "meaning": "to drive",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El descubrimiento de agua en Marte fue un hito.",
+            "english": "The discovery of water on Mars was a milestone.",
+            "verbs": [
+                {
+                    "word": "fue",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Conditional Sentences": [
+        {
+            "spanish": "Si tuviera más tiempo, viajaría por el mundo.",
+            "english": "If I had more time, I would travel the world.",
+            "verbs": [
+                {
+                    "word": "tuviera",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Imperfect Subjunctive, 1st person singular"
+                },
+                {
+                    "word": "viajaría",
+                    "infinitive": "viajar",
+                    "meaning": "to travel",
+                    "conjugation": "Conditional, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si estudias, aprobarás el examen.",
+            "english": "If you study, you will pass the exam.",
+            "verbs": [
+                {
+                    "word": "estudias",
+                    "infinitive": "estudiar",
+                    "meaning": "to study",
+                    "conjugation": "Present, 2nd person singular"
+                },
+                {
+                    "word": "aprobarás",
+                    "infinitive": "aprobar",
+                    "meaning": "to pass",
+                    "conjugation": "Future, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si hubieras llegado a tiempo, habrías visto la película.",
+            "english": "If you had arrived on time, you would have seen the movie.",
+            "verbs": [
+                {
+                    "word": "hubieras llegado",
+                    "infinitive": "haber llegar",
+                    "meaning": "to have arrived",
+                    "conjugation": "Pluperfect Subjunctive, 2nd person singular"
+                },
+                {
+                    "word": "habrías visto",
+                    "infinitive": "haber ver",
+                    "meaning": "to have seen",
+                    "conjugation": "Conditional Perfect, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si hace buen tiempo, iremos a la playa.",
+            "english": "If the weather is good, we will go to the beach.",
+            "verbs": [
+                {
+                    "word": "hace",
+                    "infinitive": "hacer",
+                    "meaning": "to do/make",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "iremos",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Future, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Si pudiera, te ayudaría con tu tarea.",
+            "english": "If I could, I would help you with your homework.",
+            "verbs": [
+                {
+                    "word": "pudiera",
+                    "infinitive": "poder",
+                    "meaning": "to be able to",
+                    "conjugation": "Imperfect Subjunctive, 1st person singular"
+                },
+                {
+                    "word": "ayudaría",
+                    "infinitive": "ayudar",
+                    "meaning": "to help",
+                    "conjugation": "Conditional, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si comes más verduras, te sentirás mejor.",
+            "english": "If you eat more vegetables, you will feel better.",
+            "verbs": [
+                {
+                    "word": "comes",
+                    "infinitive": "comer",
+                    "meaning": "to eat",
+                    "conjugation": "Present, 2nd person singular"
+                },
+                {
+                    "word": "sentirás",
+                    "infinitive": "sentirse",
+                    "meaning": "to feel",
+                    "conjugation": "Future, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si hubiéramos sabido, habríamos ido contigo.",
+            "english": "If we had known, we would have gone with you.",
+            "verbs": [
+                {
+                    "word": "hubiéramos sabido",
+                    "infinitive": "haber saber",
+                    "meaning": "to have known",
+                    "conjugation": "Pluperfect Subjunctive, 1st person plural"
+                },
+                {
+                    "word": "habríamos ido",
+                    "infinitive": "haber ir",
+                    "meaning": "to have gone",
+                    "conjugation": "Conditional Perfect, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Si te duele la garganta, bebe té con miel.",
+            "english": "If your throat hurts, drink tea with honey.",
+            "verbs": [
+                {
+                    "word": "duele",
+                    "infinitive": "doler",
+                    "meaning": "to hurt",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "bebe",
+                    "infinitive": "beber",
+                    "meaning": "to drink",
+                    "conjugation": "Imperative, 2nd person singular (tú)"
+                }
+            ]
+        },
+        {
+            "spanish": "Si ella no hubiera estudiado, no habría aprobado.",
+            "english": "If she hadn't studied, she wouldn't have passed.",
+            "verbs": [
+                {
+                    "word": "hubiera estudiado",
+                    "infinitive": "haber estudiar",
+                    "meaning": "to have studied",
+                    "conjugation": "Pluperfect Subjunctive, 3rd person singular"
+                },
+                {
+                    "word": "habría aprobado",
+                    "infinitive": "haber aprobar",
+                    "meaning": "to have passed",
+                    "conjugation": "Conditional Perfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si me lo pides, te lo daré.",
+            "english": "If you ask me for it, I will give it to you.",
+            "verbs": [
+                {
+                    "word": "pides",
+                    "infinitive": "pedir",
+                    "meaning": "to ask for",
+                    "conjugation": "Present, 2nd person singular"
+                },
+                {
+                    "word": "daré",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Future, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si ganara la lotería, compraría una isla.",
+            "english": "If I won the lottery, I would buy an island.",
+            "verbs": [
+                {
+                    "word": "ganara",
+                    "infinitive": "ganar",
+                    "meaning": "to win",
+                    "conjugation": "Imperfect Subjunctive, 1st person singular"
+                },
+                {
+                    "word": "compraría",
+                    "infinitive": "comprar",
+                    "meaning": "to buy",
+                    "conjugation": "Conditional, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si él supiera la verdad, se enfadaría.",
+            "english": "If he knew the truth, he would get angry.",
+            "verbs": [
+                {
+                    "word": "supiera",
+                    "infinitive": "saber",
+                    "meaning": "to know",
+                    "conjugation": "Imperfect Subjunctive, 3rd person singular"
+                },
+                {
+                    "word": "enfadaría",
+                    "infinitive": "enfadarse",
+                    "meaning": "to get angry",
+                    "conjugation": "Conditional, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si llueve, no saldremos de casa.",
+            "english": "If it rains, we won't leave the house.",
+            "verbs": [
+                {
+                    "word": "llueve",
+                    "infinitive": "llover",
+                    "meaning": "to rain",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "saldremos",
+                    "infinitive": "salir",
+                    "meaning": "to leave",
+                    "conjugation": "Future, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Si yo fuera tú, aceptaría la oferta.",
+            "english": "If I were you, I would accept the offer.",
+            "verbs": [
+                {
+                    "word": "fuera",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Imperfect Subjunctive, 1st person singular"
+                },
+                {
+                    "word": "aceptaría",
+                    "infinitive": "aceptar",
+                    "meaning": "to accept",
+                    "conjugation": "Conditional, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Si hubieras estudiado, tendrías un título.",
+            "english": "If you had studied, you would have a degree.",
+            "verbs": [
+                {
+                    "word": "hubieras estudiado",
+                    "infinitive": "haber estudiar",
+                    "meaning": "to have studied",
+                    "conjugation": "Pluperfect Subjunctive, 2nd person singular"
+                },
+                {
+                    "word": "tendrías",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Conditional, 2nd person singular"
+                }
+            ]
+        }
+    ],
+    "Subjunctive Mood": [
+        {
+            "spanish": "Espero que vengas a mi fiesta.",
+            "english": "I hope that you come to my party.",
+            "verbs": [
+                {
+                    "word": "Espero",
+                    "infinitive": "esperar",
+                    "meaning": "to hope",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "vengas",
+                    "infinitive": "venir",
+                    "meaning": "to come",
+                    "conjugation": "Present Subjunctive, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Quiero que me escuches.",
+            "english": "I want you to listen to me.",
+            "verbs": [
+                {
+                    "word": "Quiero",
+                    "infinitive": "querer",
+                    "meaning": "to want",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "escuches",
+                    "infinitive": "escuchar",
+                    "meaning": "to listen",
+                    "conjugation": "Present Subjunctive, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Dudo que sea verdad lo que dice.",
+            "english": "I doubt that what he says is true.",
+            "verbs": [
+                {
+                    "word": "Dudo",
+                    "infinitive": "dudar",
+                    "meaning": "to doubt",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "sea",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                },
+                {
+                    "word": "dice",
+                    "infinitive": "decir",
+                    "meaning": "to say",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Busco un libro que hable de historia de España.",
+            "english": "I'm looking for a book that talks about Spanish history.",
+            "verbs": [
+                {
+                    "word": "Busco",
+                    "infinitive": "buscar",
+                    "meaning": "to look for",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "hable",
+                    "infinitive": "hablar",
+                    "meaning": "to talk",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "No creo que lleguen a tiempo.",
+            "english": "I don't think they'll arrive on time.",
+            "verbs": [
+                {
+                    "word": "creo",
+                    "infinitive": "creer",
+                    "meaning": "to believe",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "lleguen",
+                    "infinitive": "llegar",
+                    "meaning": "to arrive",
+                    "conjugation": "Present Subjunctive, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Te lo diré cuando vuelva.",
+            "english": "I will tell you when I get back.",
+            "verbs": [
+                {
+                    "word": "diré",
+                    "infinitive": "decir",
+                    "meaning": "to tell",
+                    "conjugation": "Future, 1st person singular"
+                },
+                {
+                    "word": "vuelva",
+                    "infinitive": "volver",
+                    "meaning": "to return",
+                    "conjugation": "Present Subjunctive, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Es una lástima que no puedas venir.",
+            "english": "It's a shame that you can't come.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "puedas",
+                    "infinitive": "poder",
+                    "meaning": "to be able to",
+                    "conjugation": "Present Subjunctive, 2nd person singular"
+                },
+                {
+                    "word": "venir",
+                    "infinitive": "venir",
+                    "meaning": "to come",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Me alegro de que hayas aprobado.",
+            "english": "I'm glad that you passed.",
+            "verbs": [
+                {
+                    "word": "alegro",
+                    "infinitive": "alegrarse",
+                    "meaning": "to be glad",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "hayas aprobado",
+                    "infinitive": "haber aprobar",
+                    "meaning": "to have passed",
+                    "conjugation": "Present Perfect Subjunctive, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Te ruego que me perdones.",
+            "english": "I beg you to forgive me.",
+            "verbs": [
+                {
+                    "word": "ruego",
+                    "infinitive": "rogar",
+                    "meaning": "to beg",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "perdones",
+                    "infinitive": "perdonar",
+                    "meaning": "to forgive",
+                    "conjugation": "Present Subjunctive, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Aunque sea difícil, lo intentaremos.",
+            "english": "Even if it's difficult, we will try.",
+            "verbs": [
+                {
+                    "word": "sea",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                },
+                {
+                    "word": "intentaremos",
+                    "infinitive": "intentar",
+                    "meaning": "to try",
+                    "conjugation": "Future, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Para que entiendas, te lo explicaré de nuevo.",
+            "english": "So that you understand, I will explain it to you again.",
+            "verbs": [
+                {
+                    "word": "entiendas",
+                    "infinitive": "entender",
+                    "meaning": "to understand",
+                    "conjugation": "Present Subjunctive, 2nd person singular"
+                },
+                {
+                    "word": "explicaré",
+                    "infinitive": "explicar",
+                    "meaning": "to explain",
+                    "conjugation": "Future, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "No hay nadie aquí que hable francés.",
+            "english": "There is no one here who speaks French.",
+            "verbs": [
+                {
+                    "word": "hay",
+                    "infinitive": "haber",
+                    "meaning": "there is/are",
+                    "conjugation": "Impersonal form"
+                },
+                {
+                    "word": "hable",
+                    "infinitive": "hablar",
+                    "meaning": "to speak",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ojalá que todo salga bien.",
+            "english": "I hope everything turns out well.",
+            "verbs": [
+                {
+                    "word": "salga",
+                    "infinitive": "salir",
+                    "meaning": "to turn out/go",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Es probable que llueva mañana.",
+            "english": "It is probable that it will rain tomorrow.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "llueva",
+                    "infinitive": "llover",
+                    "meaning": "to rain",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Necesito un empleado que sea muy responsable.",
+            "english": "I need an employee who is very responsible.",
+            "verbs": [
+                {
+                    "word": "Necesito",
+                    "infinitive": "necesitar",
+                    "meaning": "to need",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "sea",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Reflexive Verbs": [
+        {
+            "spanish": "Me lavo las manos antes de comer.",
+            "english": "I wash my hands before eating.",
+            "verbs": [
+                {
+                    "word": "lavo",
+                    "infinitive": "lavarse",
+                    "meaning": "to wash oneself",
+                    "conjugation": "Present, 1st person singular (yo)"
+                },
+                {
+                    "word": "comer",
+                    "infinitive": "comer",
+                    "meaning": "to eat",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Te vistes muy rápido por las mañanas.",
+            "english": "You get dressed very quickly in the mornings.",
+            "verbs": [
+                {
+                    "word": "vistes",
+                    "infinitive": "vestirse",
+                    "meaning": "to get dressed",
+                    "conjugation": "Present, 2nd person singular (tú)"
+                }
+            ]
+        },
+        {
+            "spanish": "Se duchan con agua fría para despertarse.",
+            "english": "They shower with cold water to wake up.",
+            "verbs": [
+                {
+                    "word": "duchan",
+                    "infinitive": "ducharse",
+                    "meaning": "to shower",
+                    "conjugation": "Present, 3rd person plural (ellos)"
+                },
+                {
+                    "word": "despertarse",
+                    "infinitive": "despertarse",
+                    "meaning": "to wake oneself up",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Nosotros nos cepillamos los dientes después de cada comida.",
+            "english": "We brush our teeth after every meal.",
+            "verbs": [
+                {
+                    "word": "cepillamos",
+                    "infinitive": "cepillarse",
+                    "meaning": "to brush oneself",
+                    "conjugation": "Present, 1st person plural (nosotros)"
+                }
+            ]
+        },
+        {
+            "spanish": "Ellos se divirtieron mucho en la fiesta.",
+            "english": "They had a lot of fun at the party.",
+            "verbs": [
+                {
+                    "word": "divirtieron",
+                    "infinitive": "divertirse",
+                    "meaning": "to have fun",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Me acuesto tarde los fines de semana.",
+            "english": "I go to bed late on weekends.",
+            "verbs": [
+                {
+                    "word": "acuesto",
+                    "infinitive": "acostarse",
+                    "meaning": "to go to bed",
+                    "conjugation": "Present, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Se levantó temprano para ir a trabajar.",
+            "english": "He/She got up early to go to work.",
+            "verbs": [
+                {
+                    "word": "levantó",
+                    "infinitive": "levantarse",
+                    "meaning": "to get up",
+                    "conjugation": "Preterite, 3rd person singular"
+                },
+                {
+                    "word": "ir",
+                    "infinitive": "ir",
+                    "meaning": "to go",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Nosotros nos preparamos para salir de viaje.",
+            "english": "We are getting ready to go on a trip.",
+            "verbs": [
+                {
+                    "word": "preparamos",
+                    "infinitive": "prepararse",
+                    "meaning": "to get ready",
+                    "conjugation": "Present, 1st person plural"
+                },
+                {
+                    "word": "salir",
+                    "infinitive": "salir",
+                    "meaning": "to leave",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Te preocupas demasiado por cosas pequeñas.",
+            "english": "You worry too much about small things.",
+            "verbs": [
+                {
+                    "word": "preocupas",
+                    "infinitive": "preocuparse",
+                    "meaning": "to worry",
+                    "conjugation": "Present, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ella se maquilla antes de salir.",
+            "english": "She puts on makeup before leaving.",
+            "verbs": [
+                {
+                    "word": "maquilla",
+                    "infinitive": "maquillarse",
+                    "meaning": "to put on makeup",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "salir",
+                    "infinitive": "salir",
+                    "meaning": "to leave",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Me puse muy nerviosa durante la entrevista.",
+            "english": "I got very nervous during the interview.",
+            "verbs": [
+                {
+                    "word": "puse",
+                    "infinitive": "ponerse",
+                    "meaning": "to get/become",
+                    "conjugation": "Preterite, 1st person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Se acordaron de llamarnos al llegar.",
+            "english": "They remembered to call us upon arriving.",
+            "verbs": [
+                {
+                    "word": "acordaron",
+                    "infinitive": "acordarse",
+                    "meaning": "to remember",
+                    "conjugation": "Preterite, 3rd person plural"
+                },
+                {
+                    "word": "llamarnos",
+                    "infinitive": "llamar",
+                    "meaning": "to call",
+                    "conjugation": "Infinitive + pronoun 'nos'"
+                }
+            ]
+        },
+        {
+            "spanish": "Nos encontramos con un viejo amigo por casualidad.",
+            "english": "We ran into an old friend by chance.",
+            "verbs": [
+                {
+                    "word": "encontramos",
+                    "infinitive": "encontrarse",
+                    "meaning": "to meet up with",
+                    "conjugation": "Preterite, 1st person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "Te sentarás aquí, ¿verdad?",
+            "english": "You'll sit here, right?",
+            "verbs": [
+                {
+                    "word": "sentarás",
+                    "infinitive": "sentarse",
+                    "meaning": "to sit down",
+                    "conjugation": "Future, 2nd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Se cayeron los libros de la mesa.",
+            "english": "The books fell off the table.",
+            "verbs": [
+                {
+                    "word": "cayeron",
+                    "infinitive": "caerse",
+                    "meaning": "to fall down",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        }
+    ],
+    "Idioms": [
+        {
+            "spanish": "Más vale tarde que nunca.",
+            "english": "Better late than never.",
+            "verbs": [
+                {
+                    "word": "vale",
+                    "infinitive": "valer",
+                    "meaning": "to be worth",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "No hay mal que por bien no venga.",
+            "english": "Every cloud has a silver lining.",
+            "verbs": [
+                {
+                    "word": "hay",
+                    "infinitive": "haber",
+                    "meaning": "there is/are",
+                    "conjugation": "Impersonal form"
+                },
+                {
+                    "word": "venga",
+                    "infinitive": "venir",
+                    "meaning": "to come",
+                    "conjugation": "Present Subjunctive, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "A lo hecho, pecho.",
+            "english": "What's done is done. (Face the consequences)",
+            "verbs": []
+        },
+        {
+            "spanish": "Tira la casa por la ventana.",
+            "english": "To spare no expense. (Literally: Throw the house out the window)",
+            "verbs": [
+                {
+                    "word": "Tira",
+                    "infinitive": "tirar",
+                    "meaning": "to throw",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Estar en las nubes.",
+            "english": "To have one's head in the clouds.",
+            "verbs": [
+                {
+                    "word": "Estar",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El que no corre, vuela.",
+            "english": "He who doesn't run, flies. (Seize the opportunity)",
+            "verbs": [
+                {
+                    "word": "corre",
+                    "infinitive": "correr",
+                    "meaning": "to run",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "vuela",
+                    "infinitive": "volar",
+                    "meaning": "to fly",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Hablando del rey de Roma, por la puerta asoma.",
+            "english": "Speak of the devil.",
+            "verbs": [
+                {
+                    "word": "Hablando",
+                    "infinitive": "hablar",
+                    "meaning": "to speak",
+                    "conjugation": "Gerund"
+                },
+                {
+                    "word": "asoma",
+                    "infinitive": "asomar",
+                    "meaning": "to appear",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Ponerse las pilas.",
+            "english": "To get to work/buckle down.",
+            "verbs": [
+                {
+                    "word": "Ponerse",
+                    "infinitive": "ponerse",
+                    "meaning": "to put on",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Echar una mano.",
+            "english": "To lend a hand.",
+            "verbs": [
+                {
+                    "word": "Echar",
+                    "infinitive": "echar",
+                    "meaning": "to throw/give",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Tomar el pelo.",
+            "english": "To pull someone's leg.",
+            "verbs": [
+                {
+                    "word": "Tomar",
+                    "infinitive": "tomar",
+                    "meaning": "to take",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Dar en el clavo.",
+            "english": "To hit the nail on the head.",
+            "verbs": [
+                {
+                    "word": "Dar",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Ser pan comido.",
+            "english": "To be a piece of cake.",
+            "verbs": [
+                {
+                    "word": "Ser",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Infinitive"
+                },
+                {
+                    "word": "comido",
+                    "infinitive": "comer",
+                    "meaning": "to eat",
+                    "conjugation": "Past Participle"
+                }
+            ]
+        },
+        {
+            "spanish": "No tener pelos en la lengua.",
+            "english": "To not mince words.",
+            "verbs": [
+                {
+                    "word": "tener",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Estar como una cabra.",
+            "english": "To be crazy. (Literally: To be like a goat)",
+            "verbs": [
+                {
+                    "word": "Estar",
+                    "infinitive": "estar",
+                    "meaning": "to be",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Irse al garete.",
+            "english": "To go to hell in a handbasket.",
+            "verbs": [
+                {
+                    "word": "Irse",
+                    "infinitive": "irse",
+                    "meaning": "to leave",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        }
+    ],
+    "Politics": [
+        {
+            "spanish": "El presidente ha declarado el estado de emergencia.",
+            "english": "The president has declared a state of emergency.",
+            "verbs": [
+                {
+                    "word": "ha declarado",
+                    "infinitive": "haber declarar",
+                    "meaning": "to have declared",
+                    "conjugation": "Present Perfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los ciudadanos votaron en las elecciones de ayer.",
+            "english": "The citizens voted in yesterday's elections.",
+            "verbs": [
+                {
+                    "word": "votaron",
+                    "infinitive": "votar",
+                    "meaning": "to vote",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "La ley fue aprobada por el congreso.",
+            "english": "The law was approved by congress.",
+            "verbs": [
+                {
+                    "word": "fue aprobada",
+                    "infinitive": "ser aprobar",
+                    "meaning": "to be approved",
+                    "conjugation": "Preterite, passive voice"
+                }
+            ]
+        },
+        {
+            "spanish": "El partido de la oposición se opuso a la medida.",
+            "english": "The opposition party opposed the measure.",
+            "verbs": [
+                {
+                    "word": "se opuso",
+                    "infinitive": "oponerse",
+                    "meaning": "to oppose",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El primer ministro dará un discurso en la conferencia.",
+            "english": "The prime minister will give a speech at the conference.",
+            "verbs": [
+                {
+                    "word": "dará",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Future, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El escándalo político sacudió al gobierno.",
+            "english": "The political scandal shook the government.",
+            "verbs": [
+                {
+                    "word": "sacudió",
+                    "infinitive": "sacudir",
+                    "meaning": "to shake",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los diplomáticos están negociando un acuerdo comercial.",
+            "english": "The diplomats are negotiating a trade agreement.",
+            "verbs": [
+                {
+                    "word": "están negociando",
+                    "infinitive": "estar negociar",
+                    "meaning": "to be negotiating",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "Es nuestra obligación participar en el proceso democrático.",
+            "english": "It is our obligation to participate in the democratic process.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "participar",
+                    "infinitive": "participar",
+                    "meaning": "to participate",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "El poder ejecutivo administra el país.",
+            "english": "The executive branch administers the country.",
+            "verbs": [
+                {
+                    "word": "administra",
+                    "infinitive": "administrar",
+                    "meaning": "to administer",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La corrupción ha sido un tema central en la campaña.",
+            "english": "Corruption has been a central theme in the campaign.",
+            "verbs": [
+                {
+                    "word": "ha sido",
+                    "infinitive": "haber ser",
+                    "meaning": "to have been",
+                    "conjugation": "Present Perfect, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Los manifestantes marcharon hacia el parlamento.",
+            "english": "The protestors marched towards the parliament.",
+            "verbs": [
+                {
+                    "word": "marcharon",
+                    "infinitive": "marchar",
+                    "meaning": "to march",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "La nueva ley entrará en vigor el próximo año.",
+            "english": "The new law will come into force next year.",
+            "verbs": [
+                {
+                    "word": "entrará",
+                    "infinitive": "entrar",
+                    "meaning": "to enter",
+                    "conjugation": "Future, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La política exterior del país es muy importante.",
+            "english": "The country's foreign policy is very important.",
+            "verbs": [
+                {
+                    "word": "es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El tribunal falló a favor de los demandantes.",
+            "english": "The court ruled in favor of the plaintiffs.",
+            "verbs": [
+                {
+                    "word": "falló",
+                    "infinitive": "fallar",
+                    "meaning": "to rule",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El senador propuso una enmienda a la constitución.",
+            "english": "The senator proposed an amendment to the constitution.",
+            "verbs": [
+                {
+                    "word": "propuso",
+                    "infinitive": "proponer",
+                    "meaning": "to propose",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        }
+    ],
+    "Law": [
+        {
+            "spanish": "El abogado defendió a su cliente en el juicio.",
+            "english": "The lawyer defended his client in the trial.",
+            "verbs": [
+                {
+                    "word": "defendió",
+                    "infinitive": "defender",
+                    "meaning": "to defend",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El juez dictó sentencia después de la audiencia.",
+            "english": "The judge passed sentence after the hearing.",
+            "verbs": [
+                {
+                    "word": "dictó",
+                    "infinitive": "dictar",
+                    "meaning": "to pass/dictate",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La fiscalía presentó pruebas en contra del acusado.",
+            "english": "The prosecution presented evidence against the accused.",
+            "verbs": [
+                {
+                    "word": "presentó",
+                    "infinitive": "presentar",
+                    "meaning": "to present",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El acusado se declaró inocente de todos los cargos.",
+            "english": "The accused pleaded not guilty to all charges.",
+            "verbs": [
+                {
+                    "word": "declaró",
+                    "infinitive": "declarar",
+                    "meaning": "to declare/plead",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Es un derecho fundamental tener un juicio justo.",
+            "english": "It is a fundamental right to have a fair trial.",
+            "verbs": [
+                {
+                    "word": "Es",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Present, 3rd person singular"
+                },
+                {
+                    "word": "tener",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "La policía está investigando el crimen.",
+            "english": "The police are investigating the crime.",
+            "verbs": [
+                {
+                    "word": "está investigando",
+                    "infinitive": "estar investigar",
+                    "meaning": "to be investigating",
+                    "conjugation": "Present Continuous"
+                }
+            ]
+        },
+        {
+            "spanish": "El jurado llegó a un veredicto después de deliberar.",
+            "english": "The jury reached a verdict after deliberating.",
+            "verbs": [
+                {
+                    "word": "llegó",
+                    "infinitive": "llegar",
+                    "meaning": "to arrive/reach",
+                    "conjugation": "Preterite, 3rd person singular"
+                },
+                {
+                    "word": "deliberar",
+                    "infinitive": "deliberar",
+                    "meaning": "to deliberate",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Se firmó un acuerdo legal entre las dos partes.",
+            "english": "A legal agreement was signed between the two parties.",
+            "verbs": [
+                {
+                    "word": "firmó",
+                    "infinitive": "firmar",
+                    "meaning": "to sign",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La ley fue modificada por el parlamento.",
+            "english": "The law was modified by the parliament.",
+            "verbs": [
+                {
+                    "word": "fue modificada",
+                    "infinitive": "ser modificar",
+                    "meaning": "to be modified",
+                    "conjugation": "Preterite, passive voice"
+                }
+            ]
+        },
+        {
+            "spanish": "El juez ordenó el arresto del sospechoso.",
+            "english": "The judge ordered the arrest of the suspect.",
+            "verbs": [
+                {
+                    "word": "ordenó",
+                    "infinitive": "ordenar",
+                    "meaning": "to order",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "Tengo que comparecer ante un tribunal mañana.",
+            "english": "I have to appear before a court tomorrow.",
+            "verbs": [
+                {
+                    "word": "Tengo",
+                    "infinitive": "tener",
+                    "meaning": "to have",
+                    "conjugation": "Present, 1st person singular"
+                },
+                {
+                    "word": "comparecer",
+                    "infinitive": "comparecer",
+                    "meaning": "to appear",
+                    "conjugation": "Infinitive"
+                }
+            ]
+        },
+        {
+            "spanish": "Los testigos dieron su testimonio bajo juramento.",
+            "english": "The witnesses gave their testimony under oath.",
+            "verbs": [
+                {
+                    "word": "dieron",
+                    "infinitive": "dar",
+                    "meaning": "to give",
+                    "conjugation": "Preterite, 3rd person plural"
+                }
+            ]
+        },
+        {
+            "spanish": "El acusado apeló la decisión del juez.",
+            "english": "The defendant appealed the judge's decision.",
+            "verbs": [
+                {
+                    "word": "apeló",
+                    "infinitive": "apelar",
+                    "meaning": "to appeal",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "La evidencia fue crucial para el caso.",
+            "english": "The evidence was crucial for the case.",
+            "verbs": [
+                {
+                    "word": "fue",
+                    "infinitive": "ser",
+                    "meaning": "to be",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        },
+        {
+            "spanish": "El caso se cerró por falta de pruebas.",
+            "english": "The case was closed due to a lack of evidence.",
+            "verbs": [
+                {
+                    "word": "se cerró",
+                    "infinitive": "cerrarse",
+                    "meaning": "to close",
+                    "conjugation": "Preterite, 3rd person singular"
+                }
+            ]
+        }
     ]
 }
